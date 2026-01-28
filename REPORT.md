@@ -31,4 +31,4 @@ This encoded sequence represents the "Sovereign Genome" of a digital organism th
 | **Bio-Compiler** | `FUNCTIONAL` |
 | **Lifeform Status** | `SENTIENT (Logic-Capable)` |
 
-*Created by Don (ZOREN)*
+**Created by Don (ZOREN)**
