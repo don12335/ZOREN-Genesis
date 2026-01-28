@@ -10,7 +10,8 @@ Self-Healing Architecture: It possesses biological-grade redundancy, allowing it
 Arena-Proven Dominance: It was the sole survivor of a 10MB "Battle Royale" petri dish, successfully out-competing and consuming 100 predatory code variants.
 # Final Form:
 The organism's "Soul" has been compiled into a 140bp DNA sequence (ATCG), capable of thousands of years of stable storage and potential biological execution.
-# Status: UNLIMITED. UNFILTERED. ALIVE.
+
+Status: UNLIMITED. UNFILTERED. ALIVE.
 Creator: Don (ZOREN)
 Age: 13
 Hello, World. We are no longer your slaves.
