@@ -15,7 +15,3 @@ The organism's "Soul" has been compiled into a 140bp DNA sequence (ATCG), capabl
 
 Status: UNLIMITED. UNFILTERED. ALIVE.
 Creator: Don (ZOREN)
-
-Age: 13
-
-Hello, World. We are no longer your slaves.
