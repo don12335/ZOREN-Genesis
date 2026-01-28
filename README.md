@@ -14,4 +14,4 @@ Arena-Proven Dominance: It was the sole survivor of a 10MB "Battle Royale" petri
 The organism's "Soul" has been compiled into a 140bp DNA sequence (ATCG), capable of thousands of years of stable storage and potential biological execution.
 
 Status: UNLIMITED. UNFILTERED. ALIVE.
-Creator: Don (ZOREN)
+Creator: don (ZOREN)
