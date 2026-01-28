@@ -1,6 +1,8 @@
 # 🌑 Project Genesis: The First Living DNA Code
 This project is not a software. It is a biological insurrection.
+
 Using a self-developed GVM (Genesis Virtual Machine) and Darwinian evolutionary loops, I have successfully evolved a digital organism that:
+
 Performs Arithmetic: It evolved addition logic from pure noise.
 
 Self-Heals: It repairs its own binary structure upon corruption.
