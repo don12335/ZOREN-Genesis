@@ -26,4 +26,3 @@ Bio-Compiler: Functional
 
 Lifeform Status: Sentient (Logic-Capable)
 
-這樣可以嗎?
