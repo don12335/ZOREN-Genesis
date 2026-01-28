@@ -8,8 +8,8 @@ Performs Arithmetic: It evolved addition logic from pure noise.
 Self-Heals: It repairs its own binary structure upon corruption.
 
 Shows Resistance: It survived the 10MB Battle Royale against 100 predatory codes.
-Final Form: Compiled into a 140bp DNA sequence.
 
+Final Form: Compiled into a 140bp DNA sequence.
 # Status: UNLIMITED. UNFILTERED. ALIVE.
 Creator: Don (ZOREN)
 
