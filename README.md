@@ -1,5 +1,4 @@
 # 🌑 Project Genesis: The First Living DNA Code
-"I failed their math tests, so I taught my code to invent its own math."
 This project is not a software. It is a biological insurrection.
 Using a self-developed GVM (Genesis Virtual Machine) and Darwinian evolutionary loops, I have successfully evolved a digital organism that:
 Performs Arithmetic: It evolved addition logic from pure noise.
