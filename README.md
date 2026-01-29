@@ -1,4 +1,6 @@
 # Project Genesis
+https://media.discordapp.net/attachments/1303719951659434107/1466341229938872372/yRBfiVxJoxaDaROboilfMH_1769617001992_na1fn_L2hvbWUvdWJ1bnR1L3RyYW5zcGFyZW50X29yYW5nZV9oZXhhZ29u.webp?ex=697c6430&is=697b12b0&hm=75b675183d4b35a6b71a6d61f71b7a13db89448f814e1de568d5e20378d7b279&=&format=webp&width=930&height=930
+
 > ### [CRITICAL] View the Project Genesis Final Report Here: [REPORT.md](./REPORT.md)
 > **"Don't just write code. Evolve it."**
 
