@@ -1,5 +1,5 @@
 # Project Genesis
-> ### View the Project Genesis Final Report Here: [REPORT.md](./REPORT.md)
+> ### [CRITICAL] View the Project Genesis Final Report Here: [REPORT.md](./REPORT.md)
 > **"Don't just write code. Evolve it."**
 
 ![C++](https://img.shields.io/badge/Language-C++17-blue.svg)
