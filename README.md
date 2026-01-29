@@ -1,16 +1,68 @@
-> ### [CRITICAL] View the Project Genesis Final Report Here: [REPORT.md](./REPORT.md)
+# Project Genesis
+> **"Don't just write code. Evolve it."**
 
-# Project Genesis: The First Living DNA Code
-"This project is not software. It is a biological insurrection."
+![C++](https://img.shields.io/badge/Language-C++17-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-God_Mode_Active-red.svg)
 
-Using a self-developed GVM (Genesis Virtual Machine) and Darwinian evolutionary loops, I have successfully evolved a digital organism from pure random noise. It has transcended static code to become an adaptive biological blueprint.
-# Core Achievements:
-Emergent XOR Intelligence: The organism evolved complex non-linear logic (XOR Gate) and self-invented conditional branching (JZ - Jump Zero) to make autonomous decisions.
+## What is this?
+**Project Genesis** is not a simple genetic algorithm. It is a complete **Biological Operating System**.
 
-Self-Healing Architecture: It possesses biological-grade redundancy, allowing it to repair its own binary structure and logic flow in real-time upon memory corruption.
+It simulates a fault-tolerant Virtual Machine (The Genesis VM) that treats machine code as biological DNA. This allows programs to:
+1.  **Mutate** without crashing (Fault Tolerance).
+2.  **Evolve** complex logic (like XOR gates) from random noise.
+3.  **Fight** for survival in a shared memory arena (Core War).
+4.  **Transpile** themselves from "DNA" into valid C++ code (Bio-Universal Translation).
 
-Arena-Proven Dominance: It was the sole survivor of a 10MB "Battle Royale" petri dish, successfully out-competing and consuming 100 predatory code variants.
-# Final Form:
-The organism's "Soul" has been compiled into a 140bp DNA sequence (ATCG), capable of thousands of years of stable storage and potential biological execution.
+## God Tier Features
 
-Creator: don (ZOREN)
+### 1. The Immortal Kernel (Survival Mode)
+We evolved a program that stays functional even when its memory is actively corrupted by radiation.
+```bash
+bin/genesis.exe survival
+# Watch as the code develops redundancy to survive random bit-flips.
+```
+
+### 2. Sentient Logic (Consciousness)
+The system evolved a non-linear **XOR Logic Gate** without being taught math. It discovered the concept of "If/Else" branching purely through evolutionary pressure.
+```bash
+bin/genesis.exe consciousness
+# Result: A digital brain that passes the Turing test for logic gates.
+```
+
+### 3. The Replicator (Artificial Life)
+A virus that assumes control of the execution pointer and blindly copies its own genome to neighboring memory cells.
+```bash
+bin/genesis.exe export replicator
+# Pit it against a Bomber in the Arena to see who wins!
+```
+
+### 4. The Bio-Universal Translator
+Turn your biological experiment into a real-world tool. This compiler takes organic DNA and transpiles it into standard C++.
+```bash
+bin/genesis.exe transpile <DNA_STRING>
+# Output: A valid .cpp file you can compile with GCC.
+```
+
+## The Arena (Core War)
+Pit two organisms against each other in a shared 1024-byte memory pool.
+- **Red (P1)**: Your Challenger
+- **Blue (P2)**: The Opponent
+- **Magenta**: Memory Collision (Combat)
+
+```bash
+bin/genesis.exe arena <DNA_1> <DNA_2>
+```
+
+## Build & Run
+**Windows (No dependencies required)**:
+```powershell
+.\build.bat
+```
+
+## The Philosophy
+Most AI writes code. **Genesis grows it.** 
+This project proves that with a robust enough environment (VM) and strict enough competition (Arena), **Intelligence is inevitable.**
+
+---
+*Created by the Genesis Architect.*
