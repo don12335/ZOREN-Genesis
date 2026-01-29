@@ -65,4 +65,4 @@ Most AI writes code. **Genesis grows it.**
 This project proves that with a robust enough environment (VM) and strict enough competition (Arena), **Intelligence is inevitable.**
 
 ---
-*Created by the Genesis Architect.*
+*Created by don (ZOREN).*
